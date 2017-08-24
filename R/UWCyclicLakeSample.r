@@ -2,7 +2,7 @@
 # UW cyclic lake sampling script
 #
 
-source("cyclicHal.r")
+source("./R/cyclicHal.r")
 
 library(SDraw)
 library(rgdal)
@@ -15,31 +15,32 @@ nCycleSamps <- 10  # this draws nCycleSamps * prod(J+1) points.  Hopefully, 6 ar
 
 set.seed(838383)
 
-snowyLakes <- readOGR(".", "Biome_SnowyLakes")
+snowyLakes <- readOGR("D:/Avdata/WyoBiome", "Biome_SnowyLakes")
 
 pts.coords <- NULL
 
-for(j in 1:length(snowyLakes)){
-
+for(j in 1:nrow(snowyLakes)){
+  #grab current lake
   lake <- snowyLakes[j,]
-  lake.line <-as(lake,"SpatialLinesDataFrame")
-  
+  #convert to lines
+  lake.line <- as(lake,"SpatialLinesDataFrame")
+  #expand the bounding box by assigned buffer width
   bb <- bbox(lake) + matrix(c(-1,-1,1,1)*buff.width,2)
   dx <- diff(bb[1,])/2
   dy <- diff(bb[2,])/2
-  
+  #create 4 random points along the lake boundary
   anchors <- sdraw(lake.line,4)
 
-  # start a plot
-  plot(lake.line, xlim=bb[1,], ylim=bb[2,])
-  abline(h=bb[2,])
-  abline(v=bb[1,])
-  lake.name <- data.frame(snowyLakes)$GNIS_Nm[j]
-  title(main = lake.name)
-  points(anchors)
-  
+  # # start a plot
+  # plot(lake.line, xlim=bb[1,], ylim=bb[2,])
+  # abline(h=bb[2,])
+  # abline(v=bb[1,])
+  lake.name <- data.frame(snowyLakes)$LakeCode[j]
+  # title(main = lake.name)
+  # points(anchors)
+  # 
   # loop over anchors
-  for(anc in 1:length(anchors)){
+  for(anc in 1:nrow(anchors)){
     
     # The cyclic sample on unit square, centered on (0,0)
     samp <- NULL
@@ -52,11 +53,11 @@ for(j in 1:length(snowyLakes)){
     
     # Make a spatial object so can clip
     dimnames(pts)<- list(NULL, c("x","y"))
-    pts <- SpatialPoints(pts, proj4string = CRS(proj4string(tmp2)))
+    pts <- SpatialPoints(pts, proj4string = CRS(proj4string(snowyLakes)))
   
     # clip out lake
     ind <- over(pts,lake)
-    ind <- is.na(ind$OBJECTI)
+    ind <- is.na(ind$LakeCode)
     pts <- pts[ind,]
     
     # back to data frame
@@ -67,11 +68,16 @@ for(j in 1:length(snowyLakes)){
 
     # plot with all the points
     points(pts, pch=14+anc, col=anc)
-  }  
+  }#close anc  
 
-  dev.copy(png, filename=paste0(lake.name,".png"), width=7, height=7, units="in", res=300);dev.off(dev.cur()) 
+  #dev.copy(png, filename=paste0(lake.name,".png"), width=7, height=7, units="in", res=300);dev.off(dev.cur()) 
   
-}
+}#close j
+
+
+#write out the data.frame
+write.table(pts.coords, file = "D:/Avdata/WyoBiome/WyoBiome/data/PlotSampleLocations.txt", sep = "\t", row.names = FALSE)
+
 
 # write out and plot the first 6 from each anchor
 
