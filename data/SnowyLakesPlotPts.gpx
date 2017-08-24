@@ -1,0 +1,1924 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="41.324894752634322" minlon="-106.372468971376630" maxlat="41.505718401169176" maxlon="-106.233953819360170"/></metadata>              
+<wpt lat="41.373172930075448" lon="-106.25264719521529">
+  <name>B1_1</name>
+  <extensions>
+    <ogr:x>-849364.23409049795</ogr:x>
+    <ogr:y>2086631.08951351</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849411.71362810303</ogr:anc.x>
+    <ogr:anc.y>2086544.3000700099</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.37378003779633" lon="-106.25310709484005">
+  <name>B1_2</name>
+  <extensions>
+    <ogr:x>-849394.86807529395</ogr:x>
+    <ogr:y>2086702.76258466</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849411.71362810303</ogr:anc.x>
+    <ogr:anc.y>2086544.3000700099</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.372068208569338" lon="-106.2534645436165">
+  <name>B1_3</name>
+  <extensions>
+    <ogr:x>-849444.999228901</ogr:x>
+    <ogr:y>2086515.45478809</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849411.71362810303</ogr:anc.x>
+    <ogr:anc.y>2086544.3000700099</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.372337891589765" lon="-106.25396644173236">
+  <name>B1_4</name>
+  <extensions>
+    <ogr:x>-849483.16645912302</ogr:x>
+    <ogr:y>2086549.95302186</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849411.71362810303</ogr:anc.x>
+    <ogr:anc.y>2086544.3000700099</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.372321737530541" lon="-106.25330324275744">
+  <name>B1_5</name>
+  <extensions>
+    <ogr:x>-849428.63224833505</ogr:x>
+    <ogr:y>2086542.22728454</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849411.71362810303</ogr:anc.x>
+    <ogr:anc.y>2086544.3000700099</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.372708047334726" lon="-106.25311037145491">
+  <name>B1_6</name>
+  <extensions>
+    <ogr:x>-849408.05962735997</ogr:x>
+    <ogr:y>2086583.4942924001</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849411.71362810303</ogr:anc.x>
+    <ogr:anc.y>2086544.3000700099</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.372354457176634" lon="-106.25324164965251">
+  <name>B1_7</name>
+  <extensions>
+    <ogr:x>-849423.15503045102</ogr:x>
+    <ogr:y>2086545.3179954099</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849411.71362810303</ogr:anc.x>
+    <ogr:anc.y>2086544.3000700099</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.373187803621178" lon="-106.25346362031244">
+  <name>B1_8</name>
+  <extensions>
+    <ogr:x>-849431.42760291405</ogr:x>
+    <ogr:y>2086640.0418627399</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849411.71362810303</ogr:anc.x>
+    <ogr:anc.y>2086544.3000700099</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.372185956375546" lon="-106.24790445095252">
+  <name>B2_1</name>
+  <extensions>
+    <ogr:x>-848984.74388841295</ogr:x>
+    <ogr:y>2086478.8736433501</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848961.87111962202</ogr:anc.x>
+    <ogr:anc.y>2086450.25385877</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.372805522890147" lon="-106.24697754260518">
+  <name>B2_2</name>
+  <extensions>
+    <ogr:x>-848900.78880745103</ogr:x>
+    <ogr:y>2086539.5430630599</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848961.87111962202</ogr:anc.x>
+    <ogr:anc.y>2086450.25385877</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.371775234682886" lon="-106.24631457641173">
+  <name>B2_3</name>
+  <extensions>
+    <ogr:x>-848858.48933761602</ogr:x>
+    <ogr:y>2086418.9635007901</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848961.87111962202</ogr:anc.x>
+    <ogr:anc.y>2086450.25385877</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.371933817742899" lon="-106.24769256837132">
+  <name>B2_4</name>
+  <extensions>
+    <ogr:x>-848970.296164923</ogr:x>
+    <ogr:y>2086448.92108135</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848961.87111962202</ogr:anc.x>
+    <ogr:anc.y>2086450.25385877</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.373274249788643" lon="-106.24727668096151">
+  <name>B2_5</name>
+  <extensions>
+    <ogr:x>-848919.827945714</ogr:x>
+    <ogr:y>2086594.37832727</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848961.87111962202</ogr:anc.x>
+    <ogr:anc.y>2086450.25385877</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.373280120824042" lon="-106.24805878029105">
+  <name>B2_6</name>
+  <extensions>
+    <ogr:x>-848984.29769249097</ogr:x>
+    <ogr:y>2086602.01835751</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848961.87111962202</ogr:anc.x>
+    <ogr:anc.y>2086450.25385877</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.372311549196596" lon="-106.24788999674585">
+  <name>B2_7</name>
+  <extensions>
+    <ogr:x>-848982.03802083398</ogr:x>
+    <ogr:y>2086492.7213405501</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848961.87111962202</ogr:anc.x>
+    <ogr:anc.y>2086450.25385877</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.371947671499271" lon="-106.24775941334534">
+  <name>B2_8</name>
+  <extensions>
+    <ogr:x>-848975.64555834699</ogr:x>
+    <ogr:y>2086451.05997773</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848961.87111962202</ogr:anc.x>
+    <ogr:anc.y>2086450.25385877</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.370379805555544" lon="-106.25608762912019">
+  <name>B3_1</name>
+  <extensions>
+    <ogr:x>-849681.82067525201</ogr:x>
+    <ogr:y>2086351.00855404</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849490.75785868498</ogr:anc.x>
+    <ogr:anc.y>2086376.44111618</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.372405509798632" lon="-106.25418460427714">
+  <name>B3_2</name>
+  <extensions>
+    <ogr:x>-849500.35468085005</ogr:x>
+    <ogr:y>2086559.42811482</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849490.75785868498</ogr:anc.x>
+    <ogr:anc.y>2086376.44111618</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.370296547517739" lon="-106.25655151147573">
+  <name>B3_3</name>
+  <extensions>
+    <ogr:x>-849721.10629896296</ogr:x>
+    <ogr:y>2086345.89072378</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849490.75785868498</ogr:anc.x>
+    <ogr:anc.y>2086376.44111618</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.370770152225461" lon="-106.25490232244726">
+  <name>B3_4</name>
+  <extensions>
+    <ogr:x>-849579.29768825998</ogr:x>
+    <ogr:y>2086383.85162031</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849490.75785868498</ogr:anc.x>
+    <ogr:anc.y>2086376.44111618</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.369083601028969" lon="-106.25403684793446">
+  <name>B3_5</name>
+  <extensions>
+    <ogr:x>-849528.20555211301</ogr:x>
+    <ogr:y>2086188.4247586101</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849490.75785868498</ogr:anc.x>
+    <ogr:anc.y>2086376.44111618</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.37251899119299" lon="-106.25396242482108">
+  <name>B3_6</name>
+  <extensions>
+    <ogr:x>-849480.65191927599</ogr:x>
+    <ogr:y>2086570.07097003</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849490.75785868498</ogr:anc.x>
+    <ogr:anc.y>2086376.44111618</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.370503041798507" lon="-106.25372556183586">
+  <name>B3_7</name>
+  <extensions>
+    <ogr:x>-849485.40601490601</ogr:x>
+    <ogr:y>2086343.60648293</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849490.75785868498</ogr:anc.x>
+    <ogr:anc.y>2086376.44111618</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.370978228077938" lon="-106.25417788592684">
+  <name>B3_8</name>
+  <extensions>
+    <ogr:x>-849517.00571639102</ogr:x>
+    <ogr:y>2086400.53148167</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849490.75785868498</ogr:anc.x>
+    <ogr:anc.y>2086376.44111618</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.370491343100454" lon="-106.24880157621489">
+  <name>B4_1</name>
+  <extensions>
+    <ogr:x>-849079.195023268</ogr:x>
+    <ogr:y>2086298.3004392399</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849079.17134778795</ogr:anc.x>
+    <ogr:anc.y>2086326.81159969</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.370700801487217" lon="-106.24896411496903">
+  <name>B4_2</name>
+  <extensions>
+    <ogr:x>-849090.08489207004</ogr:x>
+    <ogr:y>2086323.06262595</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849079.17134778795</ogr:anc.x>
+    <ogr:anc.y>2086326.81159969</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.370565437549345" lon="-106.24903332327619">
+  <name>B4_3</name>
+  <extensions>
+    <ogr:x>-849097.427264328</ogr:x>
+    <ogr:y>2086308.61675674</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849079.17134778795</ogr:anc.x>
+    <ogr:anc.y>2086326.81159969</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.372357579537386" lon="-106.24855008861527">
+  <name>B4_4</name>
+  <extensions>
+    <ogr:x>-849035.95631901501</ogr:x>
+    <ogr:y>2086503.7410464999</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849079.17134778795</ogr:anc.x>
+    <ogr:anc.y>2086326.81159969</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.369776909470211" lon="-106.24896919192931">
+  <name>B4_5</name>
+  <extensions>
+    <ogr:x>-849101.63548780605</ogr:x>
+    <ogr:y>2086220.29092033</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849079.17134778795</ogr:anc.x>
+    <ogr:anc.y>2086326.81159969</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.370493370468779" lon="-106.24894455325821">
+  <name>B4_6</name>
+  <extensions>
+    <ogr:x>-849090.96981179295</ogr:x>
+    <ogr:y>2086299.8035035999</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849079.17134778795</ogr:anc.x>
+    <ogr:anc.y>2086326.81159969</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.37050876339201" lon="-106.24899361775468">
+  <name>B4_7</name>
+  <extensions>
+    <ogr:x>-849094.83340698702</ogr:x>
+    <ogr:y>2086301.95491012</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849079.17134778795</ogr:anc.x>
+    <ogr:anc.y>2086326.81159969</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.370617038189053" lon="-106.24913999089215">
+  <name>B4_8</name>
+  <extensions>
+    <ogr:x>-849105.60829762695</ogr:x>
+    <ogr:y>2086315.3122811699</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849079.17134778795</ogr:anc.x>
+    <ogr:anc.y>2086326.81159969</ogr:anc.y>
+    <ogr:lake>BRK</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.489929885703717" lon="-106.24677395337912">
+  <name>C1_1</name>
+  <extensions>
+    <ogr:x>-847473.18577803904</ogr:x>
+    <ogr:y>2099571.3957944601</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-847460.64409571304</ogr:anc.x>
+    <ogr:anc.y>2099598.8145759101</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.490025293159192" lon="-106.24668572854361">
+  <name>C1_2</name>
+  <extensions>
+    <ogr:x>-847464.76818397106</ogr:x>
+    <ogr:y>2099581.2254328402</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-847460.64409571304</ogr:anc.x>
+    <ogr:anc.y>2099598.8145759101</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.490130261753443" lon="-106.24621393008056">
+  <name>C1_3</name>
+  <extensions>
+    <ogr:x>-847424.63459022006</ogr:x>
+    <ogr:y>2099588.69854298</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-847460.64409571304</ogr:anc.x>
+    <ogr:anc.y>2099598.8145759101</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.490178022562937" lon="-106.24633474466052">
+  <name>C1_4</name>
+  <extensions>
+    <ogr:x>-847434.01270977303</ogr:x>
+    <ogr:y>2099595.0904198899</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-847460.64409571304</ogr:anc.x>
+    <ogr:anc.y>2099598.8145759101</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.48998418654071" lon="-106.24644648194295">
+  <name>C1_5</name>
+  <extensions>
+    <ogr:x>-847445.55283422605</ogr:x>
+    <ogr:y>2099574.5178509802</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-847460.64409571304</ogr:anc.x>
+    <ogr:anc.y>2099598.8145759101</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.4914535981912" lon="-106.2469835011381">
+  <name>C1_6</name>
+  <extensions>
+    <ogr:x>-847472.09655172797</ogr:x>
+    <ogr:y>2099742.8142825798</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-847460.64409571304</ogr:anc.x>
+    <ogr:anc.y>2099598.8145759101</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.489311368521626" lon="-106.24634147170244">
+  <name>C1_7</name>
+  <extensions>
+    <ogr:x>-847445.00502414</ogr:x>
+    <ogr:y>2099498.7140635299</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-847460.64409571304</ogr:anc.x>
+    <ogr:anc.y>2099598.8145759101</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.490232527814875" lon="-106.2464381846027">
+  <name>C1_8</name>
+  <extensions>
+    <ogr:x>-847441.87816853903</ogr:x>
+    <ogr:y>2099602.0778551502</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-847460.64409571304</ogr:anc.x>
+    <ogr:anc.y>2099598.8145759101</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.490692421456181" lon="-106.24905329503247">
+  <name>C2_1</name>
+  <extensions>
+    <ogr:x>-847651.78392012801</ogr:x>
+    <ogr:y>2099676.5747674201</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-847638.70956145204</ogr:anc.x>
+    <ogr:anc.y>2099694.9361242601</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.49156695865841" lon="-106.24915171825164">
+  <name>C2_2</name>
+  <extensions>
+    <ogr:x>-847649.35655114404</ogr:x>
+    <ogr:y>2099774.7657521502</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-847638.70956145204</ogr:anc.x>
+    <ogr:anc.y>2099694.9361242601</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.490936142493069" lon="-106.24943632197487">
+  <name>C2_3</name>
+  <extensions>
+    <ogr:x>-847680.40309635096</ogr:x>
+    <ogr:y>2099707.1110219401</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-847638.70956145204</ogr:anc.x>
+    <ogr:anc.y>2099694.9361242601</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.491367268330315" lon="-106.24898320453057">
+  <name>C2_4</name>
+  <extensions>
+    <ogr:x>-847637.87952159799</ogr:x>
+    <ogr:y>2099751.04240346</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-847638.70956145204</ogr:anc.x>
+    <ogr:anc.y>2099694.9361242601</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.490589919587478" lon="-106.24920958397786">
+  <name>C2_5</name>
+  <extensions>
+    <ogr:x>-847665.89459215302</ogr:x>
+    <ogr:y>2099666.5630236398</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-847638.70956145204</ogr:anc.x>
+    <ogr:anc.y>2099694.9361242601</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.491039734525245" lon="-106.24904792378372">
+  <name>C2_6</name>
+  <extensions>
+    <ogr:x>-847647.15722853597</ogr:x>
+    <ogr:y>2099715.17372347</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-847638.70956145204</ogr:anc.x>
+    <ogr:anc.y>2099694.9361242601</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.490474880997894" lon="-106.24951919711722">
+  <name>C2_7</name>
+  <extensions>
+    <ogr:x>-847692.78790475102</ogr:x>
+    <ogr:y>2099656.5239308202</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-847638.70956145204</ogr:anc.x>
+    <ogr:anc.y>2099694.9361242601</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.491367458790059" lon="-106.24885119040299">
+  <name>C2_8</name>
+  <extensions>
+    <ogr:x>-847627.00141497306</ogr:x>
+    <ogr:y>2099749.8861191198</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-847638.70956145204</ogr:anc.x>
+    <ogr:anc.y>2099694.9361242601</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.48851387870495" lon="-106.24667160958271">
+  <name>C3_1</name>
+  <extensions>
+    <ogr:x>-847481.80927048496</ogr:x>
+    <ogr:y>2099412.9178877799</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-847596.00937399198</ogr:anc.x>
+    <ogr:anc.y>2099554.4972873498</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.489458721224736" lon="-106.2483278153093">
+  <name>C3_2</name>
+  <extensions>
+    <ogr:x>-847606.87735419895</ogr:x>
+    <ogr:y>2099532.82525077</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-847596.00937399198</ogr:anc.x>
+    <ogr:anc.y>2099554.4972873498</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.489091080920417" lon="-106.24929845806913">
+  <name>C3_3</name>
+  <extensions>
+    <ogr:x>-847691.27386087202</ogr:x>
+    <ogr:y>2099500.5740730399</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-847596.00937399198</ogr:anc.x>
+    <ogr:anc.y>2099554.4972873498</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.488771824544138" lon="-106.24809112306789">
+  <name>C3_4</name>
+  <extensions>
+    <ogr:x>-847595.65172106505</ogr:x>
+    <ogr:y>2099454.2803431102</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-847596.00937399198</ogr:anc.x>
+    <ogr:anc.y>2099554.4972873498</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.489522401913739" lon="-106.24904429662642">
+  <name>C3_5</name>
+  <extensions>
+    <ogr:x>-847665.138170989</ogr:x>
+    <ogr:y>2099546.3018192402</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-847596.00937399198</ogr:anc.x>
+    <ogr:anc.y>2099554.4972873498</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.489549779001067" lon="-106.24778188708211">
+  <name>C3_6</name>
+  <extensions>
+    <ogr:x>-847560.80363663298</ogr:x>
+    <ogr:y>2099538.08859132</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-847596.00937399198</ogr:anc.x>
+    <ogr:anc.y>2099554.4972873498</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.489569952350614" lon="-106.24817917444001">
+  <name>C3_7</name>
+  <extensions>
+    <ogr:x>-847593.29150496295</ogr:x>
+    <ogr:y>2099543.8766687298</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-847596.00937399198</ogr:anc.x>
+    <ogr:anc.y>2099554.4972873498</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.489350231129542" lon="-106.24938330991182">
+  <name>C3_8</name>
+  <extensions>
+    <ogr:x>-847695.14232562599</ogr:x>
+    <ogr:y>2099530.16762977</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-847596.00937399198</ogr:anc.x>
+    <ogr:anc.y>2099554.4972873498</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.491420663943074" lon="-106.24728130352689">
+  <name>C4_1</name>
+  <extensions>
+    <ogr:x>-847497.02733420697</ogr:x>
+    <ogr:y>2099741.8052900899</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-847501.23859965405</ogr:anc.x>
+    <ogr:anc.y>2099742.7976586302</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.491522073867124" lon="-106.2472507657198">
+  <name>C4_2</name>
+  <extensions>
+    <ogr:x>-847493.29001242097</ogr:x>
+    <ogr:y>2099752.8172470401</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-847501.23859965405</ogr:anc.x>
+    <ogr:anc.y>2099742.7976586302</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.492289891137411" lon="-106.24790042391102">
+  <name>C4_3</name>
+  <extensions>
+    <ogr:x>-847537.56213894801</ogr:x>
+    <ogr:y>2099844.04900767</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-847501.23859965405</ogr:anc.x>
+    <ogr:anc.y>2099742.7976586302</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.491603094209729" lon="-106.24734022436756">
+  <name>C4_4</name>
+  <extensions>
+    <ogr:x>-847499.68403058394</ogr:x>
+    <ogr:y>2099762.6304880902</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-847501.23859965405</ogr:anc.x>
+    <ogr:anc.y>2099742.7976586302</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.491606894449021" lon="-106.24748850298747">
+  <name>C4_5</name>
+  <extensions>
+    <ogr:x>-847511.85397609498</ogr:x>
+    <ogr:y>2099764.3757040999</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-847501.23859965405</ogr:anc.x>
+    <ogr:anc.y>2099742.7976586302</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.492094038376713" lon="-106.24843925097242">
+  <name>C4_6</name>
+  <extensions>
+    <ogr:x>-847584.31151497399</ogr:x>
+    <ogr:y>2099827.0612930399</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-847501.23859965405</ogr:anc.x>
+    <ogr:anc.y>2099742.7976586302</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.492767156002827" lon="-106.24782041882249">
+  <name>C4_7</name>
+  <extensions>
+    <ogr:x>-847525.22204564896</ogr:x>
+    <ogr:y>2099896.4425880602</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-847501.23859965405</ogr:anc.x>
+    <ogr:anc.y>2099742.7976586302</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.491587564207379" lon="-106.24810619213335">
+  <name>C4_8</name>
+  <extensions>
+    <ogr:x>-847562.97424004599</ogr:x>
+    <ogr:y>2099767.7335075098</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-847501.23859965405</ogr:anc.x>
+    <ogr:anc.y>2099742.7976586302</ogr:anc.y>
+    <ogr:lake>CRT</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.379884535341695" lon="-106.25489312428218">
+  <name>G1_1</name>
+  <extensions>
+    <ogr:x>-849468.66022206703</ogr:x>
+    <ogr:y>2087398.06896593</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849527.37260495801</ogr:anc.x>
+    <ogr:anc.y>2087280.80174039</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.379017720255838" lon="-106.25408005860312">
+  <name>G1_2</name>
+  <extensions>
+    <ogr:x>-849412.02016886405</ogr:x>
+    <ogr:y>2087294.3377958001</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849527.37260495801</ogr:anc.x>
+    <ogr:anc.y>2087280.80174039</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.37896116340702" lon="-106.25564780891158">
+  <name>G1_3</name>
+  <extensions>
+    <ogr:x>-849542.064478021</ogr:x>
+    <ogr:y>2087302.0575667401</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849527.37260495801</ogr:anc.x>
+    <ogr:anc.y>2087280.80174039</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.379060146549428" lon="-106.25538449815768">
+  <name>G1_4</name>
+  <extensions>
+    <ogr:x>-849519.14412632701</ogr:x>
+    <ogr:y>2087310.7191038399</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849527.37260495801</ogr:anc.x>
+    <ogr:anc.y>2087280.80174039</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.379672961570321" lon="-106.25364308759305">
+  <name>G1_5</name>
+  <extensions>
+    <ogr:x>-849368.06532882596</ogr:x>
+    <ogr:y>2087363.3509543799</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849527.37260495801</ogr:anc.x>
+    <ogr:anc.y>2087280.80174039</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.378936404420323" lon="-106.25346987829811">
+  <name>G1_6</name>
+  <extensions>
+    <ogr:x>-849362.65142739599</ogr:x>
+    <ogr:y>2087279.83486733</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849527.37260495801</ogr:anc.x>
+    <ogr:anc.y>2087280.80174039</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.378946592726585" lon="-106.25636469476824">
+  <name>G1_7</name>
+  <extensions>
+    <ogr:x>-849601.39374856499</ogr:x>
+    <ogr:y>2087306.84483787</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849527.37260495801</ogr:anc.x>
+    <ogr:anc.y>2087280.80174039</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.378967298703337" lon="-106.25529665105395">
+  <name>G1_8</name>
+  <extensions>
+    <ogr:x>-849513.014824162</ogr:x>
+    <ogr:y>2087299.6012387599</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-849527.37260495801</ogr:anc.x>
+    <ogr:anc.y>2087280.80174039</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.377300928862766" lon="-106.25538720722292">
+  <name>G2_1</name>
+  <extensions>
+    <ogr:x>-849540.576862855</ogr:x>
+    <ogr:y>2087114.9683695999</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-849517.22035593505</ogr:anc.x>
+    <ogr:anc.y>2087142.2978978399</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.37866097732006" lon="-106.25478388022303">
+  <name>G2_2</name>
+  <extensions>
+    <ogr:x>-849474.39647719602</ogr:x>
+    <ogr:y>2087260.9285842499</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-849517.22035593505</ogr:anc.x>
+    <ogr:anc.y>2087142.2978978399</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.376226691048167" lon="-106.25581909995903">
+  <name>G2_3</name>
+  <extensions>
+    <ogr:x>-849589.16681410396</ogr:x>
+    <ogr:y>2086999.2824078</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-849517.22035593505</ogr:anc.x>
+    <ogr:anc.y>2087142.2978978399</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.377966629376125" lon="-106.25266789604561">
+  <name>G2_4</name>
+  <extensions>
+    <ogr:x>-849308.16444929305</ogr:x>
+    <ogr:y>2087164.74545233</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-849517.22035593505</ogr:anc.x>
+    <ogr:anc.y>2087142.2978978399</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.377519235675216" lon="-106.25517267212263">
+  <name>G2_5</name>
+  <extensions>
+    <ogr:x>-849520.24227849103</ogr:x>
+    <ogr:y>2087137.3449210799</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-849517.22035593505</ogr:anc.x>
+    <ogr:anc.y>2087142.2978978399</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.376795634701899" lon="-106.25359241479984">
+  <name>G2_6</name>
+  <extensions>
+    <ogr:x>-849398.56723078899</ogr:x>
+    <ogr:y>2087042.69343156</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-849517.22035593505</ogr:anc.x>
+    <ogr:anc.y>2087142.2978978399</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.378982261412609" lon="-106.25528667197224">
+  <name>G2_7</name>
+  <extensions>
+    <ogr:x>-849512.01101394999</ogr:x>
+    <ogr:y>2087301.1771621399</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-849517.22035593505</ogr:anc.x>
+    <ogr:anc.y>2087142.2978978399</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.377562874589785" lon="-106.25728822753281">
+  <name>G2_8</name>
+  <extensions>
+    <ogr:x>-849694.28392129205</ogr:x>
+    <ogr:y>2087161.1145842499</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-849517.22035593505</ogr:anc.x>
+    <ogr:anc.y>2087142.2978978399</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.378262136280185" lon="-106.25925279630248">
+  <name>G3_1</name>
+  <extensions>
+    <ogr:x>-849847.95893977</ogr:x>
+    <ogr:y>2087256.4986970599</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849841.07161738095</ogr:anc.x>
+    <ogr:anc.y>2087256.3587926801</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.378777180819888" lon="-106.26143907431143">
+  <name>G3_2</name>
+  <extensions>
+    <ogr:x>-850022.14676710905</ogr:x>
+    <ogr:y>2087333.3683132001</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849841.07161738095</ogr:anc.x>
+    <ogr:anc.y>2087256.3587926801</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.379226821512916" lon="-106.25898708436056">
+  <name>G3_3</name>
+  <extensions>
+    <ogr:x>-849814.39932653005</ogr:x>
+    <ogr:y>2087361.4772838899</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849841.07161738095</ogr:anc.x>
+    <ogr:anc.y>2087256.3587926801</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.37803850583601" lon="-106.25978243885841">
+  <name>G3_4</name>
+  <extensions>
+    <ogr:x>-849894.35971991904</ogr:x>
+    <ogr:y>2087236.34858081</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849841.07161738095</ogr:anc.x>
+    <ogr:anc.y>2087256.3587926801</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.378376350784706" lon="-106.25918690271041">
+  <name>G3_5</name>
+  <extensions>
+    <ogr:x>-849841.144236058</ogr:x>
+    <ogr:y>2087268.6197671499</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849841.07161738095</ogr:anc.x>
+    <ogr:anc.y>2087256.3587926801</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.377962463875747" lon="-106.25703698064595">
+  <name>G3_6</name>
+  <extensions>
+    <ogr:x>-849668.73374862003</ogr:x>
+    <ogr:y>2087203.33652783</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849841.07161738095</ogr:anc.x>
+    <ogr:anc.y>2087256.3587926801</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.378004001709215" lon="-106.25985429911088">
+  <name>G3_7</name>
+  <extensions>
+    <ogr:x>-849900.70545943698</ogr:x>
+    <ogr:y>2087233.1514578699</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849841.07161738095</ogr:anc.x>
+    <ogr:anc.y>2087256.3587926801</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.379433006395487" lon="-106.25962033356282">
+  <name>G3_8</name>
+  <extensions>
+    <ogr:x>-849864.16448008805</ogr:x>
+    <ogr:y>2087390.08535271</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-849841.07161738095</ogr:anc.x>
+    <ogr:anc.y>2087256.3587926801</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.375894065399308" lon="-106.25995387478144">
+  <name>G4_1</name>
+  <extensions>
+    <ogr:x>-849934.37077650696</ogr:x>
+    <ogr:y>2086999.23817972</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849796.60482685501</ogr:anc.x>
+    <ogr:anc.y>2087061.76951976</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.377760513903155" lon="-106.25820154076976">
+  <name>G4_2</name>
+  <extensions>
+    <ogr:x>-849767.26359419699</ogr:x>
+    <ogr:y>2087191.27518093</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849796.60482685501</ogr:anc.x>
+    <ogr:anc.y>2087061.76951976</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.37609322863878" lon="-106.25859468374888">
+  <name>G4_3</name>
+  <extensions>
+    <ogr:x>-849819.81126026402</ogr:x>
+    <ogr:y>2087009.2468787001</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849796.60482685501</ogr:anc.x>
+    <ogr:anc.y>2087061.76951976</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.376828403782973" lon="-106.25685753046058">
+  <name>G4_4</name>
+  <extensions>
+    <ogr:x>-849667.60052130301</ogr:x>
+    <ogr:y>2087075.5280963799</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849796.60482685501</ogr:anc.x>
+    <ogr:anc.y>2087061.76951976</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.376828206032755" lon="-106.25755381461315">
+  <name>G4_5</name>
+  <extensions>
+    <ogr:x>-849725.05821306398</ogr:x>
+    <ogr:y>2087081.7315992001</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849796.60482685501</ogr:anc.x>
+    <ogr:anc.y>2087061.76951976</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.376317481712263" lon="-106.25819963725074">
+  <name>G4_6</name>
+  <extensions>
+    <ogr:x>-849784.50854912505</ogr:x>
+    <ogr:y>2087030.6703262699</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849796.60482685501</ogr:anc.x>
+    <ogr:anc.y>2087061.76951976</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.375445926939904" lon="-106.25720003499296">
+  <name>G4_7</name>
+  <extensions>
+    <ogr:x>-849712.53315069096</ogr:x>
+    <ogr:y>2086924.74115363</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849796.60482685501</ogr:anc.x>
+    <ogr:anc.y>2087061.76951976</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.375751184257659" lon="-106.25805625885579">
+  <name>G4_8</name>
+  <extensions>
+    <ogr:x>-849779.50640381302</ogr:x>
+    <ogr:y>2086966.3677678199</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-849796.60482685501</ogr:anc.x>
+    <ogr:anc.y>2087061.76951976</ogr:anc.y>
+    <ogr:lake>GLC</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.502870173111461" lon="-106.37022749593585">
+  <name>L1_1</name>
+  <extensions>
+    <ogr:x>-857485.52934853197</ogr:x>
+    <ogr:y>2102118.6255009398</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-857501.74878153601</ogr:anc.x>
+    <ogr:anc.y>2102066.1441873298</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.502843949745973" lon="-106.3707441549908">
+  <name>L1_2</name>
+  <extensions>
+    <ogr:x>-857528.40039835498</ogr:x>
+    <ogr:y>2102120.3699031598</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-857501.74878153601</ogr:anc.x>
+    <ogr:anc.y>2102066.1441873298</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.500557021111049" lon="-106.37020944241415">
+  <name>L1_3</name>
+  <extensions>
+    <ogr:x>-857512.23754848598</ogr:x>
+    <ogr:y>2101861.1077678599</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-857501.74878153601</ogr:anc.x>
+    <ogr:anc.y>2102066.1441873298</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.502095871582085" lon="-106.37122040381071">
+  <name>L1_4</name>
+  <extensions>
+    <ogr:x>-857576.74287186703</ogr:x>
+    <ogr:y>2102041.4384850599</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-857501.74878153601</ogr:anc.x>
+    <ogr:anc.y>2102066.1441873298</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.502649707806583" lon="-106.37064326530016">
+  <name>L1_5</name>
+  <extensions>
+    <ogr:x>-857522.45896387601</ogr:x>
+    <ogr:y>2102097.84875029</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-857501.74878153601</ogr:anc.x>
+    <ogr:anc.y>2102066.1441873298</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.503271793306268" lon="-106.37246897137663">
+  <name>L1_6</name>
+  <extensions>
+    <ogr:x>-857665.23787757196</ogr:x>
+    <ogr:y>2102183.5354989399</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-857501.74878153601</ogr:anc.x>
+    <ogr:anc.y>2102066.1441873298</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.500612082873445" lon="-106.37073061073232">
+  <name>L1_7</name>
+  <extensions>
+    <ogr:x>-857554.490550944</ogr:x>
+    <ogr:y>2101871.9365602802</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-857501.74878153601</ogr:anc.x>
+    <ogr:anc.y>2102066.1441873298</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.503485887109505" lon="-106.37058499567736">
+  <name>L1_8</name>
+  <extensions>
+    <ogr:x>-857507.46737219603</ogr:x>
+    <ogr:y>2102190.3537717299</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-857501.74878153601</ogr:anc.x>
+    <ogr:anc.y>2102066.1441873298</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.49970049430592" lon="-106.36676448336596">
+  <name>L2_1</name>
+  <extensions>
+    <ogr:x>-857238.94181538699</ogr:x>
+    <ogr:y>2101734.7327312701</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-857248.63970593503</ogr:anc.x>
+    <ogr:anc.y>2101777.1588447299</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.497691402120473" lon="-106.36589030294978">
+  <name>L2_2</name>
+  <extensions>
+    <ogr:x>-857191.42060360301</ogr:x>
+    <ogr:y>2101503.3198187002</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-857248.63970593503</ogr:anc.x>
+    <ogr:anc.y>2101777.1588447299</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.500345966298184" lon="-106.36546796134934">
+  <name>L2_3</name>
+  <extensions>
+    <ogr:x>-857124.29242324596</ogr:x>
+    <ogr:y>2101794.8522182498</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-857248.63970593503</ogr:anc.x>
+    <ogr:anc.y>2101777.1588447299</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.500495732950561" lon="-106.36679555875843">
+  <name>L2_4</name>
+  <extensions>
+    <ogr:x>-857231.81125185604</ogr:x>
+    <ogr:y>2101823.4895672598</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-857248.63970593503</ogr:anc.x>
+    <ogr:anc.y>2101777.1588447299</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.498128778699304" lon="-106.36642486100051">
+  <name>L2_5</name>
+  <extensions>
+    <ogr:x>-857230.12032373506</ogr:x>
+    <ogr:y>2101556.8033047598</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-857248.63970593503</ogr:anc.x>
+    <ogr:anc.y>2101777.1588447299</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.50004581731838" lon="-106.3667248321392">
+  <name>L2_6</name>
+  <extensions>
+    <ogr:x>-857231.46827894496</ogr:x>
+    <ogr:y>2101772.79496072</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-857248.63970593503</ogr:anc.x>
+    <ogr:anc.y>2101777.1588447299</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.499582902020578" lon="-106.3689310572089">
+  <name>L2_7</name>
+  <extensions>
+    <ogr:x>-857418.81988428696</ogr:x>
+    <ogr:y>2101741.1951256902</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-857248.63970593503</ogr:anc.x>
+    <ogr:anc.y>2101777.1588447299</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.499731026710634" lon="-106.36681451059371">
+  <name>L2_8</name>
+  <extensions>
+    <ogr:x>-857242.69015916705</ogr:x>
+    <ogr:y>2101738.5809689201</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-857248.63970593503</ogr:anc.x>
+    <ogr:anc.y>2101777.1588447299</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.504344475942318" lon="-106.36711067543312">
+  <name>L3_1</name>
+  <extensions>
+    <ogr:x>-857210.86642401805</ogr:x>
+    <ogr:y>2102254.5337026198</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-857212.84457390499</ogr:anc.x>
+    <ogr:anc.y>2102208.6276855902</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.505718401169176" lon="-106.36750235024471">
+  <name>L3_2</name>
+  <extensions>
+    <ogr:x>-857226.381317675</ogr:x>
+    <ogr:y>2102410.9257813701</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-857212.84457390499</ogr:anc.x>
+    <ogr:anc.y>2102208.6276855902</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.503822015591965" lon="-106.36653212166337">
+  <name>L3_3</name>
+  <extensions>
+    <ogr:x>-857169.5842708</ogr:x>
+    <ogr:y>2102191.1876334599</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-857212.84457390499</ogr:anc.x>
+    <ogr:anc.y>2102208.6276855902</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.504333788422841" lon="-106.36706217092676">
+  <name>L3_4</name>
+  <extensions>
+    <ogr:x>-857207.00195204199</ogr:x>
+    <ogr:y>2102252.9071223801</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-857212.84457390499</ogr:anc.x>
+    <ogr:anc.y>2102208.6276855902</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.503813861755241" lon="-106.36670594144395">
+  <name>L3_5</name>
+  <extensions>
+    <ogr:x>-857183.99907529796</ogr:x>
+    <ogr:y>2102191.8482714398</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-857212.84457390499</ogr:anc.x>
+    <ogr:anc.y>2102208.6276855902</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.503983424939413" lon="-106.36684676135117">
+  <name>L3_6</name>
+  <extensions>
+    <ogr:x>-857193.53058379702</ogr:x>
+    <ogr:y>2102211.98361143</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-857212.84457390499</ogr:anc.x>
+    <ogr:anc.y>2102208.6276855902</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.504057352523745" lon="-106.36699984427432">
+  <name>L3_7</name>
+  <extensions>
+    <ogr:x>-857205.23732975195</ogr:x>
+    <ogr:y>2102221.5894082501</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-857212.84457390499</ogr:anc.x>
+    <ogr:anc.y>2102208.6276855902</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.504400137212016" lon="-106.36692758391534">
+  <name>L3_8</name>
+  <extensions>
+    <ogr:x>-857195.10924940405</ogr:x>
+    <ogr:y>2102259.0749342502</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-857212.84457390499</ogr:anc.x>
+    <ogr:anc.y>2102208.6276855902</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.497867271087898" lon="-106.3661918399207">
+  <name>L4_1</name>
+  <extensions>
+    <ogr:x>-857214.113916239</ogr:x>
+    <ogr:y>2101525.6065537198</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-857321.09940851398</ogr:anc.x>
+    <ogr:anc.y>2101731.1947325398</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.497279433480841" lon="-106.36744904680323">
+  <name>L4_2</name>
+  <extensions>
+    <ogr:x>-857324.82700751699</ogr:x>
+    <ogr:y>2101471.5457895398</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-857321.09940851398</ogr:anc.x>
+    <ogr:anc.y>2101731.1947325398</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.499289258106266" lon="-106.36849472434147">
+  <name>L4_3</name>
+  <extensions>
+    <ogr:x>-857386.46095133398</ogr:x>
+    <ogr:y>2101704.58833759</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-857321.09940851398</ogr:anc.x>
+    <ogr:anc.y>2101731.1947325398</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.499464550193551" lon="-106.36774633134748">
+  <name>L4_4</name>
+  <extensions>
+    <ogr:x>-857322.684791571</ogr:x>
+    <ogr:y>2101717.3392120199</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-857321.09940851398</ogr:anc.x>
+    <ogr:anc.y>2101731.1947325398</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.497311448816838" lon="-106.36740253887007">
+  <name>L4_5</name>
+  <extensions>
+    <ogr:x>-857320.60622190998</ogr:x>
+    <ogr:y>2101474.6881916798</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-857321.09940851398</ogr:anc.x>
+    <ogr:anc.y>2101731.1947325398</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.499549476825003" lon="-106.37000874933081">
+  <name>L4_6</name>
+  <extensions>
+    <ogr:x>-857507.98893069499</ogr:x>
+    <ogr:y>2101747.20009665</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-857321.09940851398</ogr:anc.x>
+    <ogr:anc.y>2101731.1947325398</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.499240219316675" lon="-106.36773339742902">
+  <name>L4_7</name>
+  <extensions>
+    <ogr:x>-857324.35324586194</ogr:x>
+    <ogr:y>2101692.26397422</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-857321.09940851398</ogr:anc.x>
+    <ogr:anc.y>2101731.1947325398</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.49898323881412" lon="-106.36573915670003">
+  <name>L4_8</name>
+  <extensions>
+    <ogr:x>-857163.23188230197</ogr:x>
+    <ogr:y>2101645.6838706499</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-857321.09940851398</ogr:anc.x>
+    <ogr:anc.y>2101731.1947325398</ogr:anc.y>
+    <ogr:lake>LNG</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.326950163420101" lon="-106.23546291383283">
+  <name>S1_1</name>
+  <extensions>
+    <ogr:x>-848502.34310433397</ogr:x>
+    <ogr:y>2081333.46745941</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-848508.80578865402</ogr:anc.x>
+    <ogr:anc.y>2081341.40823637</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.327785005723406" lon="-106.23395381936017">
+  <name>S1_2</name>
+  <extensions>
+    <ogr:x>-848367.68133766297</ogr:x>
+    <ogr:y>2081412.90686182</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-848508.80578865402</ogr:anc.x>
+    <ogr:anc.y>2081341.40823637</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.326051078864275" lon="-106.23556118750038">
+  <name>S1_3</name>
+  <extensions>
+    <ogr:x>-848521.27734961</ogr:x>
+    <ogr:y>2081234.28293164</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-848508.80578865402</ogr:anc.x>
+    <ogr:anc.y>2081341.40823637</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.32727674640639" lon="-106.23413422626341">
+  <name>S1_4</name>
+  <extensions>
+    <ogr:x>-848388.69397252996</ogr:x>
+    <ogr:y>2081357.9515543501</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-848508.80578865402</ogr:anc.x>
+    <ogr:anc.y>2081341.40823637</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.326833630225813" lon="-106.2354768840796">
+  <name>S1_5</name>
+  <extensions>
+    <ogr:x>-848504.89901191206</ogr:x>
+    <ogr:y>2081320.6228479601</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-848508.80578865402</ogr:anc.x>
+    <ogr:anc.y>2081341.40823637</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.326840547306738" lon="-106.23527225592355">
+  <name>S1_6</name>
+  <extensions>
+    <ogr:x>-848487.91806820896</ogr:x>
+    <ogr:y>2081319.5656654199</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-848508.80578865402</ogr:anc.x>
+    <ogr:anc.y>2081341.40823637</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.32690048700416" lon="-106.23536729596191">
+  <name>S1_7</name>
+  <extensions>
+    <ogr:x>-848495.04498484998</ogr:x>
+    <ogr:y>2081327.08509618</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-848508.80578865402</ogr:anc.x>
+    <ogr:anc.y>2081341.40823637</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.326775893295306" lon="-106.23546994177013">
+  <name>S1_8</name>
+  <extensions>
+    <ogr:x>-848505.02049820404</ogr:x>
+    <ogr:y>2081314.13513886</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>1</ogr:ancID>
+    <ogr:anc.x>-848508.80578865402</ogr:anc.x>
+    <ogr:anc.y>2081341.40823637</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.326464582782087" lon="-106.23978070872221">
+  <name>S2_1</name>
+  <extensions>
+    <ogr:x>-848864.74049999297</ogr:x>
+    <ogr:y>2081317.9853823399</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848854.14476226096</ogr:anc.x>
+    <ogr:anc.y>2081298.4160756599</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.325614211763188" lon="-106.23993665005185">
+  <name>S2_2</name>
+  <extensions>
+    <ogr:x>-848887.85499286395</ogr:x>
+    <ogr:y>2081224.73825462</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848854.14476226096</ogr:anc.x>
+    <ogr:anc.y>2081298.4160756599</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.325661587869519" lon="-106.24017300919073">
+  <name>S2_3</name>
+  <extensions>
+    <ogr:x>-848906.802853678</ogr:x>
+    <ogr:y>2081232.1221797799</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848854.14476226096</ogr:anc.x>
+    <ogr:anc.y>2081298.4160756599</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.32731155842248" lon="-106.23984885192137">
+  <name>S2_4</name>
+  <extensions>
+    <ogr:x>-848860.17135170905</ogr:x>
+    <ogr:y>2081412.8561662</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848854.14476226096</ogr:anc.x>
+    <ogr:anc.y>2081298.4160756599</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.326370849322565" lon="-106.24139910701524">
+  <name>S2_5</name>
+  <extensions>
+    <ogr:x>-848999.51249028498</ogr:x>
+    <ogr:y>2081322.0107090699</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848854.14476226096</ogr:anc.x>
+    <ogr:anc.y>2081298.4160756599</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.326595514315223" lon="-106.23941936972641">
+  <name>S2_6</name>
+  <extensions>
+    <ogr:x>-848833.32582186197</ogr:x>
+    <ogr:y>2081329.3295724301</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848854.14476226096</ogr:anc.x>
+    <ogr:anc.y>2081298.4160756599</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.32547186211346" lon="-106.2385766219939">
+  <name>S2_7</name>
+  <extensions>
+    <ogr:x>-848777.25909660896</ogr:x>
+    <ogr:y>2081196.74805032</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848854.14476226096</ogr:anc.x>
+    <ogr:anc.y>2081298.4160756599</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.326516974580137" lon="-106.24024355708309">
+  <name>S2_8</name>
+  <extensions>
+    <ogr:x>-848902.33068393404</ogr:x>
+    <ogr:y>2081327.95059237</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>2</ogr:ancID>
+    <ogr:anc.x>-848854.14476226096</ogr:anc.x>
+    <ogr:anc.y>2081298.4160756599</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.324894752634322" lon="-106.23722427278594">
+  <name>S3_1</name>
+  <extensions>
+    <ogr:x>-848672.52918332804</ogr:x>
+    <ogr:y>2081120.4422069199</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-848655.81494024</ogr:anc.x>
+    <ogr:anc.y>2081161.75560076</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.324904795178568" lon="-106.23864895281937">
+  <name>S3_2</name>
+  <extensions>
+    <ogr:x>-848790.05790622102</ogr:x>
+    <ogr:y>2081134.2835363301</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-848655.81494024</ogr:anc.x>
+    <ogr:anc.y>2081161.75560076</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.325000069432619" lon="-106.23697652521678">
+  <name>S3_3</name>
+  <extensions>
+    <ogr:x>-848650.80275508401</ogr:x>
+    <ogr:y>2081129.95081791</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-848655.81494024</ogr:anc.x>
+    <ogr:anc.y>2081161.75560076</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.325245812064672" lon="-106.23711287096843">
+  <name>S3_4</name>
+  <extensions>
+    <ogr:x>-848659.10456467397</ogr:x>
+    <ogr:y>2081158.51786218</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-848655.81494024</ogr:anc.x>
+    <ogr:anc.y>2081161.75560076</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.325415014909929" lon="-106.23920833564409">
+  <name>S3_5</name>
+  <extensions>
+    <ogr:x>-848830.10962613102</ogr:x>
+    <ogr:y>2081196.0636107</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-848655.81494024</ogr:anc.x>
+    <ogr:anc.y>2081161.75560076</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.325356389276351" lon="-106.2355665570819">
+  <name>S3_6</name>
+  <extensions>
+    <ogr:x>-848530.080256577</ogr:x>
+    <ogr:y>2081157.0166142599</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-848655.81494024</ogr:anc.x>
+    <ogr:anc.y>2081161.75560076</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.325303167234985" lon="-106.23688112030142">
+  <name>S3_7</name>
+  <extensions>
+    <ogr:x>-848639.27647845203</ogr:x>
+    <ogr:y>2081162.8315574699</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-848655.81494024</ogr:anc.x>
+    <ogr:anc.y>2081161.75560076</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.3251873860834" lon="-106.23707145197267">
+  <name>S3_8</name>
+  <extensions>
+    <ogr:x>-848656.38737938798</ogr:x>
+    <ogr:y>2081151.6455767399</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>3</ogr:ancID>
+    <ogr:anc.x>-848655.81494024</ogr:anc.x>
+    <ogr:anc.y>2081161.75560076</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.327627513685265" lon="-106.23505044725486">
+  <name>S4_1</name>
+  <extensions>
+    <ogr:x>-848460.13221798802</ogr:x>
+    <ogr:y>2081405.16927624</ogr:y>
+    <ogr:pointID>1</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-848636.69383408397</ogr:anc.x>
+    <ogr:anc.y>2081424.2625710501</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.327535483205807" lon="-106.23781080476667">
+  <name>S4_2</name>
+  <extensions>
+    <ogr:x>-848689.18086568103</ogr:x>
+    <ogr:y>2081419.5748397401</ogr:y>
+    <ogr:pointID>2</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-848636.69383408397</ogr:anc.x>
+    <ogr:anc.y>2081424.2625710501</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.327764697788282" lon="-106.23732861100811">
+  <name>S4_3</name>
+  <extensions>
+    <ogr:x>-848646.60423496296</ogr:x>
+    <ogr:y>2081440.7786717301</ogr:y>
+    <ogr:pointID>3</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-848636.69383408397</ogr:anc.x>
+    <ogr:anc.y>2081424.2625710501</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.328034712260319" lon="-106.23713822038658">
+  <name>S4_4</name>
+  <extensions>
+    <ogr:x>-848627.63277868496</ogr:x>
+    <ogr:y>2081469.12917128</ogr:y>
+    <ogr:pointID>4</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-848636.69383408397</ogr:anc.x>
+    <ogr:anc.y>2081424.2625710501</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.327848267643596" lon="-106.23726511571674">
+  <name>S4_5</name>
+  <extensions>
+    <ogr:x>-848640.35522860102</ogr:x>
+    <ogr:y>2081449.5123848601</ogr:y>
+    <ogr:pointID>5</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-848636.69383408397</ogr:anc.x>
+    <ogr:anc.y>2081424.2625710501</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.327819998921704" lon="-106.23724864521617">
+  <name>S4_6</name>
+  <extensions>
+    <ogr:x>-848639.33538057702</ogr:x>
+    <ogr:y>2081446.21919887</ogr:y>
+    <ogr:pointID>6</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-848636.69383408397</ogr:anc.x>
+    <ogr:anc.y>2081424.2625710501</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.327534668342814" lon="-106.23841538598275">
+  <name>S4_7</name>
+  <extensions>
+    <ogr:x>-848739.11491089396</ogr:x>
+    <ogr:y>2081424.8834921699</ogr:y>
+    <ogr:pointID>7</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-848636.69383408397</ogr:anc.x>
+    <ogr:anc.y>2081424.2625710501</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+<wpt lat="41.32778044776142" lon="-106.23778722631685">
+  <name>S4_8</name>
+  <extensions>
+    <ogr:x>-848684.28544352297</ogr:x>
+    <ogr:y>2081446.6270562899</ogr:y>
+    <ogr:pointID>8</ogr:pointID>
+    <ogr:ancID>4</ogr:ancID>
+    <ogr:anc.x>-848636.69383408397</ogr:anc.x>
+    <ogr:anc.y>2081424.2625710501</ogr:anc.y>
+    <ogr:lake>SLV</ogr:lake>
+  </extensions>
+</wpt>
+</gpx>

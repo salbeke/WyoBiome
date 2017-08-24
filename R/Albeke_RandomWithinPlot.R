@@ -21,7 +21,7 @@ n <- 10
 dist<- 2
 
 #create a vector of plot labels
-lbl<- paste("B_", str_pad(1:26, 2, pad = "0"), sep="")
+lbl<- paste("L_", str_pad(1:14, 2, pad = "0"), sep="")
 #create output for global point storage
 outDF<- data.frame()
 #loop through each label and create a plot for addition to a datasheet
@@ -60,7 +60,7 @@ for(j in 1:length(lbl)){
     }#close else
   }#close i
   #create the circular plot of subsample locations
-  png(filename = paste("D:/Avdata/WyoBiome/FieldSheets/BrooklynLake/plots/Plot_", lbl[j], ".png", sep = ""), pointsize = 30, width = 720, height = 720)
+  png(filename = paste("D:/Avdata/WyoBiome/FieldSheets/LongLake/plots/Plot_", lbl[j], ".png", sep = ""), pointsize = 30, width = 720, height = 720)
   par(mgp = c(0,2,2), mar = c(0,0,0,0))
   #the circle
   plot(ptBuff)
@@ -72,9 +72,9 @@ for(j in 1:length(lbl)){
   text(x = -4, y = -4, "5m")
   dev.off()
   #now append the random points to a DF so we can store the locations for later use
-  outDF<- rbind(outDF, data.frame(rpts, Plot = lbl[j], PNGFile = paste("D:/Avdata/WyoBiome/FieldSheets/BrooklynLake/plots/Plot_", lbl[j], ".png", sep = "")))
+  outDF<- rbind(outDF, data.frame(rpts, Plot = lbl[j], PNGFile = paste("D:/Avdata/WyoBiome/FieldSheets/LongLake/plots/Plot_", lbl[j], ".png", sep = "")))
 }#close j
 
 #Save the locations to a text file
-write.table(outDF, file = "D:/Avdata/WyoBiomeFieldSheets/BrooklynLake/plots/BrooklynLake_SubplotPoints.txt", sep = "\t", row.names = FALSE)
+write.table(outDF, file = "D:/Avdata/WyoBiome/FieldSheets/LongLake/plots/LongLake_SubplotPoints.txt", sep = "\t", row.names = FALSE)
 

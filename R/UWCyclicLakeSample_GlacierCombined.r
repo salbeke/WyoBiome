@@ -99,6 +99,21 @@ ptsBrk@data<- data.frame(name = paste("B", ptsBrk@data$ancID, "_", ptsBrk@data$p
 #save as GPX
 writeOGR(ptsBrk, dsn = "D:/Avdata/WyoBiome/WyoBiome/data/BrooklynLakePlotPts.gpx", layer = "waypoints", driver = "GPX", dataset_options="GPX_USE_EXTENSIONS=yes", overwrite_layer = TRUE)
 
+#Read in the table from disk
+pts<- read.table("D:/Avdata/WyoBiome/WyoBiome/data/PlotSampleLocations_GlacierCombo.txt", header = TRUE, sep = "\t", stringsAsFactors = FALSE)
+#now filter for only the top 8 points for each anchor/lake combo
+ptsSamp<- pts[pts$pointID <= 8,]
+#Make spatially aware
+ptsSamp<- SpatialPointsDataFrame(coords = ptsSamp[, c("x", "y")], data = ptsSamp, proj4string = CRS(proj4string(snowyLakes)))
+#Create new CRS
+gcsWGS84<- CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0")
+#reproject into GCS
+ptsSamp<- spTransform(ptsSamp, gcsWGS84)
+#create an ID column of anchor and id
+ptsSamp@data<- data.frame(name = paste(substr(ptsSamp@data$lake, 1, 1), ptsSamp@data$ancID, "_", ptsSamp@data$pointID, sep = ""), ptsSamp@data) 
+#save as GPX
+writeOGR(ptsSamp, dsn = "D:/Avdata/WyoBiome/WyoBiome/data/SnowyLakesPlotPts.gpx", layer = "waypoints", driver = "GPX", dataset_options="GPX_USE_EXTENSIONS=yes", overwrite_layer = TRUE)
+writeOGR(ptsSamp, dsn = "D:/Avdata/WyoBiome/WyoBiome/data", layer = "SnowyLakesPlotPts", driver = "ESRI Shapefile", overwrite_layer = TRUE)
 
 
 #12 pts per anchor, Brooklyn is first
